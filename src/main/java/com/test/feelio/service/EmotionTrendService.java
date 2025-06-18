@@ -84,4 +84,6 @@ public class EmotionTrendService {
         return new EmotionTrendResponse(labels, values);
 
     }
+
+
 }
